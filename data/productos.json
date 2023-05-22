@@ -1,0 +1,146 @@
+[
+  {
+    "producto_id": 1,
+    "titulo": "Buzo Gryffindor",
+    "detalle": "Buzo de algodón frizado.",
+    "texto_descripcion": "Celebre su orgullo por la casa de Hogwarts con esta túnica réplica de Gryffindor, como se ve en la serie de películas de Harry Potter. La túnica de Gryffindor personalizada presenta un forro escarlata en contraste, bolsillos (¡incluso hay un bolsillo oculto para tu varita!) y un escudo de Gryffindor bordado.",
+    "imagen": "Buzo-Gryffindor.png",
+    "imagen_descripcion": "Buzo Gryffindor",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 2,
+    "titulo": "Toga Slytherin",
+    "detalle": "Toga de algodón con detalles en verde",
+    "texto_descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur distinctio eius error fuga laudantium quasi, tempora? A adipisci dolorum earum exercitationem, fugit nisi provident, quasi soluta tenetur unde ut voluptatem?",
+    "imagen": "toga-slytherin.png",
+    "imagen_descripcion": "Houston Rockets Logo",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 3,
+    "titulo": "Varita Tom Riddle",
+    "detalle": "La varita de Tom Ryddle medía 34 cm y cuarto de largo y pertenecía a Tom Ryddle. ",
+    "texto_descripcion": "La varita estaba hecha de tejo, con un núcleo de pluma de fénix. Fue fabricada por Garrick Ollivander y era la \"hermana\" o \"gemela\" de la varita de Harry Potter ya que ambas compartían plumas de la misma ave. Esta varita fue el arma con el que Lord Voldemort asesinó a incontables personas, entre las cuales se incluyen James y Lily Potter, el Muggle Frank Bryce, la ex-empleada del Ministerio de Magia Bertha Jorkins y Amelia Bones. También, bajo las órdenes de Voldemort, Peter Pettigrew utilizó esta misma varita para matar a Cedric Diggory en 1995. Su forma se asemeja a la de un hueso.",
+    "imagen": "1230226-1_large.png",
+    "imagen_descripcion": "Varita blanca de Tom Riddle",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 4,
+    "titulo": "Giratiempo",
+    "detalle": "Hermione Granger: «Se llama giratiempo. Me lo dio la profesora McGonagall el día que volvimos de vacaciones. Lo he utilizado durante el curso para poder asistir a todas las clases.»",
+    "texto_descripcion": "El giratiempo es un objeto mágico que permite retroceder en el tiempo. Tiene la apariencia de un reloj de arena pequeño y retrocede una hora por cada vuelta que le den. Es muy importante que el que usa un giratiempo evite el contacto con su ser pasado porque podrían atacarse, llegando incluso a quitarse la vida por la confusión, o peor aún, el usuario podría alterar (nunca se sabe si en forma leve o drástica) su propio futuro o el de las personas con quiénes haya interactuado, causando que el curso de su vida, la de los demás, o incluso el destino del mundo (o al menos el destino de una parte de él) vayan en una dirección completamente distinta a la que se conoce en una determinada línea de tiempo, siendo absolutamente imposible predecir no sólo cuál será esta nueva dirección, sino también hasta qué punto se producirá la desviación de la línea de tiempo original en dicha nueva dirección.",
+    "imagen": "giratiempo.png",
+    "imagen_descripcion": "Denver Nuggets Logo",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 5,
+    "titulo": "Medias Ravenclaw",
+    "detalle": "Medias de algodón",
+    "texto_descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur distinctio eius error fuga laudantium quasi, tempora? A adipisci dolorum earum exercitationem, fugit nisi provident, quasi soluta tenetur unde ut voluptatem?",
+    "imagen": "medias.png",
+    "imagen_descripcion": "Pack de tres pares de medias de la casa Ravenclaw",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 6,
+    "titulo": "Vicera Hufflepuff",
+    "detalle": "Vicera de la casa regulable",
+    "texto_descripcion": "Un prefecto en el Colegio Hogwarts de Magia y Hechicería es un estudiante a quien se le ha dado autoridad y responsabilidades extra por el Jefe de Casa y el Director. Un estudiante hombre y otra mujer son elegidos de cada casa en su quinto año para actuar como prefectos, y continuarán siendo prefectos en su sexto y séptimo año hasta que se gradúen.",
+    "imagen": "huff-cap.png",
+    "imagen_descripcion": "Pin de prefecto color dorado.",
+    "precio":"$1000"
+  } ,
+  {
+    "producto_id": 7,
+    "titulo": "Varita Hermione",
+    "detalle": "Conseguí super-inteligencia usando la varita de Hermione",
+    "texto_descripcion": "La varita de Hermione Granger, estaba hecha de vid, con núcleo de fibra de corazón de dragón y medía 103/4 pulgadas (27,3 cm). Se caracterizaba por ser flexible y buena para realizar hechizos.",
+    "imagen": "hermione.png",
+    "imagen_descripcion": "Varita marrón",
+    "precio":"$1000"
+  } ,
+  {
+    "producto_id": 8,
+    "titulo": "Tapabocas Hufflepuff",
+    "detalle": "Llévate a casa esta mascarilla personalizada Hufflepuff que está hecha de algodón orgánico 100%.",
+    "texto_descripcion": "El revestimiento de la cara viene en un elegante diseño de la casa y es suave en la piel para la comodidad de todo el día.  El diseño único se compone de colores tradicionales Hufflepuff de amarillo brillante y negro con un diseño de tejón, el animal simbólico de la casa Hufflepuff.\n\nTenga en cuenta que el revestimiento facial está destinado a fines de uso general y no es de calidad médica.",
+    "imagen": "tapabocas.png",
+    "imagen_descripcion": "tapabocas de algodon amarillo y negro.",
+    "precio":"$1000"
+  } ,
+  {
+    "producto_id": 9,
+    "titulo": "Sweater Hogwarts",
+    "detalle": "Mostrar tu orgullo por tu casa favorita de Hogwarts nunca ha sido tan divertido... o tan audaz. ",
+    "texto_descripcion": "La manga larga Hogwarts Spirit Jersey cuenta con una School Crest estilizada en la transferencia de papel de aluminio en el pecho delantero, mientras que en la parte posterior, el nombre de la escuela está blasonado en el famoso puff-text de Spirit Jersey, tinta elevada en los hombros.\nTotalmente de moda, estas camisas de gran tamaño tienen un ajuste relajado a través del cuerpo perfecto para el uso diario.\n",
+    "imagen": "sweater.png",
+    "imagen_descripcion": "Sweater negro.",
+    "precio":"$1000"
+  } ,
+  {
+    "producto_id": 10,
+    "titulo": "Píjama Gryffindor",
+    "detalle": "Celebre su Hogwarts House favorito con este pijama que cuenta con acogedores pantalones a cuadros rojos y negros escarlata para una máxima comodidad.",
+    "texto_descripcion": "El conjunto incluye un súper suave, rojo de manga larga superior, con un león amarillo brillante, el símbolo histórico de la Casa Gryffindor. Estos suaves pijamas de algodón 100% Harry Potter Gryffindor son la adición perfecta a cualquier colección de ropa de dormir de Wizard o Witch para ayudarlo a alejarse en un sueño fascinante.\n\nDisponible en tamaños que incluyen S, M, L y XL. Los conjuntos de pijamas también están disponibles en todos sus otros colores favoritos de la casa.",
+    "imagen": "pin-prefecto.png",
+    "imagen_descripcion": "Pin de prefecto color dorado.",
+    "precio":"$1000"
+  } ,
+  {
+    "producto_id": 11,
+    "titulo": "Bufanda Ravenclaw",
+    "detalle": "Mantenete caliente y completa tu look Ravenclaw con esta bufanda de punto única. La bufanda viene en azul marino y gris, los colores tradicionales de la casa Ravenclaw. ",
+    "texto_descripcion": "La bufanda viene en azul marino y gris, los colores tradicionales de la casa Ravenclaw. \nLa bufanda Ravenclaw súper suave mide aproximadamente 66 pulgadas de largo y 7 pulgadas de ancho y es el complemento perfecto para cualquier bruja aspirante o colección de accesorios del mago. Nuestras bufandas de cresta de punto también están disponibles en colores Gryffindor, Slytherin, Hufflepuff y Hogwarts.",
+    "imagen": "bufanda.png",
+    "imagen_descripcion": "Bufanda larga con los colores de Ravenclaw.",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 12,
+    "titulo": "Slytherin Quidditch Jumper",
+    "detalle": "Anima a tu equipo favorito de Hogwarts house Quidditch con este saltador Slytherin Quidditch.",
+    "texto_descripcion": "Con un parche bordado Slytherin crest de la casa en el pecho izquierdo en los colores verde y plata de la casa, este suéter Quidditch es una celebración fiel de los que se ven en la serie de películas de Harry Potter. Este puente Slytherin Quidditch está hecho de material acrílico 100% súper suave y es lavable a máquina.\n\nDisponible a través de tamaños pequeños a extra grandes. También disponible en todos sus otros colores favoritos de la casa.",
+    "imagen": "jumper.png",
+    "imagen_descripcion": "Jumper gris y verde a rayas.",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 13,
+    "titulo": "Slytherin Quidditch Jumper",
+    "detalle": "Anima a tu equipo favorito de Hogwarts house Quidditch con este saltador Slytherin Quidditch.",
+    "texto_descripcion": "Con un parche bordado Slytherin crest de la casa en el pecho izquierdo en los colores verde y plata de la casa, este suéter Quidditch es una celebración fiel de los que se ven en la serie de películas de Harry Potter. Este puente Slytherin Quidditch está hecho de material acrílico 100% súper suave y es lavable a máquina.\n\nDisponible a través de tamaños pequeños a extra grandes. También disponible en todos sus otros colores favoritos de la casa.",
+    "imagen": "jumper.png",
+    "imagen_descripcion": "Jumper gris y verde a rayas.",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 14,
+    "titulo": "Slytherin Quidditch Jumper",
+    "detalle": "Anima a tu equipo favorito de Hogwarts house Quidditch con este saltador Slytherin Quidditch.",
+    "texto_descripcion": "Con un parche bordado Slytherin crest de la casa en el pecho izquierdo en los colores verde y plata de la casa, este suéter Quidditch es una celebración fiel de los que se ven en la serie de películas de Harry Potter. Este puente Slytherin Quidditch está hecho de material acrílico 100% súper suave y es lavable a máquina.\n\nDisponible a través de tamaños pequeños a extra grandes. También disponible en todos sus otros colores favoritos de la casa.",
+    "imagen": "jumper.png",
+    "imagen_descripcion": "Jumper gris y verde a rayas.",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 15,
+    "titulo": "Slytherin Quidditch Jumper",
+    "detalle": "Anima a tu equipo favorito de Hogwarts house Quidditch con este saltador Slytherin Quidditch.",
+    "texto_descripcion": "Con un parche bordado Slytherin crest de la casa en el pecho izquierdo en los colores verde y plata de la casa, este suéter Quidditch es una celebración fiel de los que se ven en la serie de películas de Harry Potter. Este puente Slytherin Quidditch está hecho de material acrílico 100% súper suave y es lavable a máquina.\n\nDisponible a través de tamaños pequeños a extra grandes. También disponible en todos sus otros colores favoritos de la casa.",
+    "imagen": "jumper.png",
+    "imagen_descripcion": "Jumper gris y verde a rayas.",
+    "precio":"$1000"
+  },
+  {
+    "producto_id": 16,
+    "titulo": "Slytherin Quidditch Jumper",
+    "detalle": "Anima a tu equipo favorito de Hogwarts house Quidditch con este saltador Slytherin Quidditch.",
+    "texto_descripcion": "Con un parche bordado Slytherin crest de la casa en el pecho izquierdo en los colores verde y plata de la casa, este suéter Quidditch es una celebración fiel de los que se ven en la serie de películas de Harry Potter. Este puente Slytherin Quidditch está hecho de material acrílico 100% súper suave y es lavable a máquina.\n\nDisponible a través de tamaños pequeños a extra grandes. También disponible en todos sus otros colores favoritos de la casa.",
+    "imagen": "jumper.png",
+    "imagen_descripcion": "Jumper gris y verde a rayas.",
+    "precio":"$1000"
+  }
+]
